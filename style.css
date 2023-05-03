@@ -1,0 +1,25 @@
+.top-header-img {
+    width: 100%;
+}
+
+.about-text {
+    text-align: justify;
+    font-size: 1.2rem;
+    color: grey;
+}
+
+.about-video {
+    width: 90%;
+    height: 380px;
+    border-radius: 10px;
+}
+
+.col-md-4 {
+    height: 100px;
+    width: 150px;
+    border: 1px solid coral;
+    margin: 5px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}
