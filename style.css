@@ -46,6 +46,16 @@ body {
     background-image: linear-gradient( 135deg, #81FBB8 10%, #28C76F 100%);
 }
 
+.card-1:hover {
+    background-image: linear-gradient( 135deg, #1dfe83 10%, #09c35d 100%);
+    cursor: pointer;
+}
+
 .card-2 {
     background-image: linear-gradient( 135deg, #FAD7A1 10%, #E96D71 100%);
+}
+
+.card-2:hover {
+    background-image: linear-gradient( 135deg, #fbaf3c 10%, #e74247 100%);
+    cursor: pointer;
 }
