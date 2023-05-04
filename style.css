@@ -59,3 +59,9 @@ body {
     background-image: linear-gradient( 135deg, #fbaf3c 10%, #e74247 100%);
     cursor: pointer;
 }
+
+.footer {
+    background: black;
+    color: whitesmoke;
+    padding: 50px;
+}
